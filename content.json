@@ -1,1 +1,10 @@
-{}
+{
+  "custom-field": "name",
+  "custom-object": {
+    "custom-line": "address",
+    "custom-text": "5065 Amigo"
+  },
+  "custom-list": [
+    {}
+  ]
+}
